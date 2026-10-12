@@ -21,8 +21,8 @@
 ## Stack
 <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,figma&theme=dark" />
 
-<div align="center">
 ##  Stats
+<div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=carryl-garcia&show_icons=true&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carryl-garcia&layout=compact&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff" />
 </div>
   
