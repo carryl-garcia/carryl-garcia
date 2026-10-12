@@ -9,14 +9,15 @@
 - Learning how to build the things I design.
 
 ## Currently working on
--  
--  A drawing app that runs in the browser (JavaScript)
--  A visual novel with a Filipino school setting
+-  learning full-stack web development
+-  JavaScript drawing app
+-  Visual Novel (role: frontend dev, main artist)
 
 ## Exploring
+- software development
 - Frontend
 - UI/UX fundamentals
-- AR development
+- AR development & Computer Vision
 
 ## 💻 Tech
 ![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
