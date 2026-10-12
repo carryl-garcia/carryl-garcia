@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4c1d95,50:7c3aed,100:c084fc&height=300&section=header&text=Carryl%20&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student&descSize=22&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4c1d95,50:7c3aed,100:c084fc&height=300&section=header&text=Carryl%20&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Software - UI-UX - Animation&descSize=22&descAlignY=65" />
 
 ## Hi there 👋
 
