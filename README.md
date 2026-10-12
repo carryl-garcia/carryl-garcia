@@ -18,17 +18,9 @@
 - Frontend and UI/UX fundamentals
 - AR and Computer Vision
 
-##  Tech
-![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-8b5cf6?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-a78bfa?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5b21b6?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7e22ce?style=for-the-badge&logo=python&logoColor=white)
+## Stack
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,figma&theme=dark" />
 
-## Tech
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python&theme=dark" />
-
-### Design and Art
 <img src="https://skillicons.dev/icons?i=figma" height="48" />
 <img src="assets/live2d.png" height="48" />
 
