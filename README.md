@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Your Stats](https://vercel.app)
-
 
 <!--
 **carryl-garcia/carryl-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
