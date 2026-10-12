@@ -21,9 +21,6 @@
 ## Stack
 <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,figma&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=figma" height="48" />
-<img src="assets/live2d.png" height="48" />
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer&reversal=true" />
