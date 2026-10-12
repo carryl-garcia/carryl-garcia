@@ -4,7 +4,7 @@
 
 </div>
 
-## About
+# About
 - CS student and digital artist.
 - Learning how to build the things I design.
 
