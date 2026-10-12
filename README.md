@@ -4,20 +4,19 @@
 
 </div>
 
-# About
+## About
 - CS student and digital artist.
 - Learning how to build the things I design.
 
 ## Currently working on
 -  learning full-stack web development
--  JavaScript drawing app
--  Visual Novel (role: frontend dev, main artist)
+-  Building a drawing app with javascript
+-  Co-developing a visual novel
 
 ## Exploring
 - software development
-- Frontend
-- UI/UX fundamentals
-- AR development & Computer Vision
+- Frontend and UI/UX fundamentals
+- AR and Computer Vision
 
 ## 💻 Tech
 ![JavaScript](https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white)
