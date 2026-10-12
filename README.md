@@ -22,8 +22,7 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,figma&theme=dark" />
 
 ##  Stats
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=carryl-garcia&show_icons=true&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carryl-garcia&layout=compact&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=carryl-garcia&show_icons=true&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carryl-garcia&layout=compact&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer&reversal=true" />
