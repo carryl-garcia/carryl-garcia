@@ -24,6 +24,8 @@
 ##  Stats
 <div align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=carryl-garcia&show_icons=true&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carryl-garcia&layout=compact&hide_border=true&bg_color=1e1033&title_color=c084fc&text_color=e9d5ff" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=carryl-garcia&hide_border=true&background=1e1033&ring=a855f7&fire=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa" />
 </div>
   
 <div align="center">
