@@ -28,8 +28,3 @@
 <img src="https://streak-stats.demolab.com/?user=carryl-garcia&hide_border=true&background=1e1033&ring=a855f7&fire=c084fc&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa" />
 </div>
   
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:7c3aed,100:4c1d95&height=120&section=footer&reversal=true" />
-
-</div>
