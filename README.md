@@ -5,7 +5,7 @@
 </div>
 
 ## About
-- CS student and artist.
+- CS student and digital artist.
 - Learning how to build the things I design.
 
 ## Currently working on
